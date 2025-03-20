@@ -12,4 +12,8 @@
 
 #### **Data Distinction Based on File Name:**
 - **DEMO** → Demographic Data
-- **MCQ** → Questionnaire Data
+- **MCQ** → Medical Data
+- **PAQ** → Physical Activity Data
+- **BMX** → Body Measures Data
+- **SMQ** → Smoking Data
+- **ALQ** → Alcohol Data
