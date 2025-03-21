@@ -1,3 +1,1 @@
 # dual-cancer-classification
-
-test
